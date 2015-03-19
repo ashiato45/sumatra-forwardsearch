@@ -1,0 +1,11 @@
+c:\users\tak\documents\visual studio 2013\Projects\calldde\calldde\bin\Debug\calldde.exe.config
+c:\users\tak\documents\visual studio 2013\Projects\calldde\calldde\bin\Debug\calldde.exe
+c:\users\tak\documents\visual studio 2013\Projects\calldde\calldde\bin\Debug\calldde.pdb
+c:\users\tak\documents\visual studio 2013\Projects\calldde\calldde\obj\Debug\calldde.csprojResolveAssemblyReference.cache
+c:\users\tak\documents\visual studio 2013\Projects\calldde\calldde\obj\Debug\calldde.Form1.resources
+c:\users\tak\documents\visual studio 2013\Projects\calldde\calldde\obj\Debug\calldde.Properties.Resources.resources
+c:\users\tak\documents\visual studio 2013\Projects\calldde\calldde\obj\Debug\calldde.csproj.GenerateResource.Cache
+c:\users\tak\documents\visual studio 2013\Projects\calldde\calldde\obj\Debug\calldde.exe
+c:\users\tak\documents\visual studio 2013\Projects\calldde\calldde\obj\Debug\calldde.pdb
+c:\users\tak\documents\visual studio 2013\Projects\calldde\calldde\bin\Debug\NDde.dll
+c:\users\tak\documents\visual studio 2013\Projects\calldde\calldde\bin\Debug\NDde.xml

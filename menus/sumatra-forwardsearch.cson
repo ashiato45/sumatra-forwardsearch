@@ -1,0 +1,22 @@
+# See https://atom.io/docs/latest/creating-a-package#menus for more details
+'context-menu':
+  'atom-text-editor': [
+    {
+      'label': 'Toggle sumatra-forwardsearch'
+      'command': 'sumatra-forwardsearch:forwardsearch'
+    }
+  ]
+'menu': [
+  {
+    'label': 'Packages'
+    'submenu': [
+      'label': 'sumatra-forwardsearch'
+      'submenu': [
+        {
+          'label': 'ForwardSearch(SumatraPDF)'
+          'command': 'sumatra-forwardsearch:forwardsearch'
+        }
+      ]
+    ]
+  }
+]
