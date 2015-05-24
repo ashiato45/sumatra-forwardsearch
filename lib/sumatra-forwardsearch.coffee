@@ -26,6 +26,7 @@ module.exports = SumatraForwardsearch =
     sumatraForwardsearchViewState: @sumatraForwardsearchView.serialize()
 
   forwardsearch: ->
+    path = require("path")
     command = path.join(__dirname, 'calldde.exe');
     editor = atom.workspace.getActiveEditor();
     filename = editor.getPath()
