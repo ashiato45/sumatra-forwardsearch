@@ -1,7 +1,7 @@
 {
   "name": "sumatra-forwardsearch",
   "main": "./lib/sumatra-forwardsearch",
-  "version": "0.7.0",
+  "version": "0.8.0",
   "description": "Provides forwardseach for SumatraPDF.",
   "activationCommands": {
     "atom-workspace": "sumatra-forwardsearch:forwardsearch"
@@ -9,7 +9,9 @@
   "repository": "https://github.com/ashiato45/sumatra-forwardsearch",
   "license": "MIT",
   "engines": {
-    "atom": ">=0.174.0 <2.0.0"
+    "atom": ">=0.201.0 <2.0.0"
   },
-  "dependencies": {}
+  "dependencies": {
+    "atom-space-pen-views": "^2.0.3"
+  }
 }
