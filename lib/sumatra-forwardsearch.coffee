@@ -28,7 +28,7 @@ module.exports = SumatraForwardsearch =
   forwardsearch: ->
     path = require("path")
     command = path.join(__dirname, 'calldde.exe');
-    editor = atom.workspace.getActiveEditor();
+    editor = atom.workspace.getActiveTextEditor();
     filename = editor.getPath()
     args = [filename, (editor.cursors[0].getBufferRow() + 1).toString()]
     stdout = (output) ->
